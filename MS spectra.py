@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #input file
-path_file = '/Users/diegobortolin/Documents/Programmazione/Python/MS spectra/'
-name_file = 'Cu2O 13_05 3h 3,9 min' 
+path_file = 'insert the path'
+name_file = ' insert the name of the file' 
 extension_file= '.csv'
 folder_output = '/Filtered/'
 
